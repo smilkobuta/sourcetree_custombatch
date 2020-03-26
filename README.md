@@ -1,0 +1,2 @@
+# sourcetree_custombatch
+SourceTree用のカスタム操作
